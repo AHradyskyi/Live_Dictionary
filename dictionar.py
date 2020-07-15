@@ -30,3 +30,5 @@ if type(output) == list:
         print('*',item)
 else:
     print(output)
+
+input('Press ENTER to exit ')
